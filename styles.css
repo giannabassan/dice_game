@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ff895d;
+  margin: 0 ;
+}
+
+h1 {
+  margin: 25px auto 90px auto;
+  width: 80%;
+  font-family: 'Lobster Two', cursive;
+  text-shadow: 4px 0 #232931;
+  font-size: 6rem;
+  color: #78bbe6;
+}
+
+p {
+  font-size: 2rem;
+  color: #1b435d;
+  font-family: "Lobster Two", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 9%;
+  color: #eeecda;
+  background-color: #CC3336;
+  padding-top: 18px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.fab {
+  color: #eeecda;
+}
+
+.fab:hover {
+  color: skyblue;
+}
